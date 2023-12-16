@@ -1,0 +1,12 @@
+Patient Gage: 3
+Patient Giese: 6
+Patient Lacks: 2
+Patient Molaison: 4
+Doctor Melissa Ofri: 8
+Doctor Ramona Sacks: 8
+Patient Sandoval: 8
+Doctor Katie Taussig: 8
+Doctor Sam Thomas: 10 
+Patient Washkansky: 6
+Patient Writebol: 3
+Patient St. Martin: 1

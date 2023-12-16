@@ -1,0 +1,9 @@
+Portland:Beaverton, Gresham, Waldport
+Waldport: Springfield, Portland, Corvallis
+Springfield: Gresham, Waldport
+Corvallis: Salem, Waldport
+Gresham: Portland, Springfield
+Beaverton: Astoria, Salem, Portland
+Astoria: Coos Bay, Beaverton
+Coos Bay: Astoria
+Salem: Corvallis, Beaverton
